@@ -90,5 +90,5 @@ I won't get nice mark in subject at the university.
               2 - НЕТ  
 : 2  
 До свидания!  
-
+```
 ~$  
